@@ -1,0 +1,8 @@
+.header__lang-link {
+  margin: 20px 0 0;
+}
+
+.header__lang-link_active {
+  margin: 20px 0 0;
+  text-decoration: underline;
+}
