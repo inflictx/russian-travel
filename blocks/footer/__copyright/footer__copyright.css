@@ -5,3 +5,9 @@
   /* identical to box height, or 114% */
   margin: 0;
 }
+
+@media screen and (max-width: 984px) {
+  .footer__copyright {
+    line-height: 1;
+  }
+}
