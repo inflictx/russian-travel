@@ -1,5 +1,7 @@
 # Проектная работа №3
 
+[Посмотреть deploy](https://inflictx.github.io/russian-travel/) 
+
 ### Яндекс Практикум
 
 ---
