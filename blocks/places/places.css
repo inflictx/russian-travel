@@ -1,7 +1,6 @@
 .places {
   display: grid;
   gap: 80px;
-  max-width: 984px;
   margin: 0 auto;
 }
 

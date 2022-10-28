@@ -1,5 +1,7 @@
 .header__lang-link {
   margin: 20px 0 0;
+  text-decoration: none;
+  color: white;
 }
 
 .header__lang-link_active {
@@ -8,6 +10,6 @@
 }
 
 .header__lang-link:hover {
-  opacity: 80%;
+  opacity: 60%;
   cursor: pointer;
 }

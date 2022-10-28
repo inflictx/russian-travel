@@ -1,12 +1,1 @@
-@media screen and (max-width: 768px) {
-  .place__inner-text {
-    width: 352px;
-  }
-}
 
-@media screen and (max-width: 568px) {
-  .place__inner-text {
-    padding-left: 16px;
-    max-width: 288px;
-  }
-}
