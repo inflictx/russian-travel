@@ -1,1 +1,8 @@
+.place__inner-text {
+}
 
+@media screen and (max-width: 568px) {
+  .place__inner-text {
+    padding: 0 16px;
+  }
+}
