@@ -5,3 +5,7 @@
   /* identical to box height, or 122% */
   color: #ffffff;
 }
+
+.place__link:hover {
+  opacity: 0.6;
+}
