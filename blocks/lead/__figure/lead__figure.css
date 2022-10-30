@@ -1,5 +1,6 @@
 .lead__figure {
   margin: 0px;
+  padding: 0 148px;
 }
 
 @media screen and (max-width: 1124px) {

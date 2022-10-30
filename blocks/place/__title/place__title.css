@@ -12,9 +12,6 @@
     font-size: 42px;
     line-height: 1.1;
   }
-  .place__title-bag {
-    font-size: 44px;
-  }
 }
 
 @media screen and (max-width: 568px) {

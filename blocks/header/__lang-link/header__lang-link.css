@@ -8,3 +8,10 @@
   opacity: 60%;
   cursor: pointer;
 }
+
+@media screen and (max-width: 568px) {
+  .header__lang-link {
+    font-size: 18px;
+    line-height: 1.11;
+  }
+}
