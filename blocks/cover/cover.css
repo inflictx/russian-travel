@@ -4,6 +4,7 @@
 
 @media screen and (max-width: 1124px) {
   .cover {
-    padding: 0;
+    padding-right: 0;
+    padding-left: 0;
   }
 }
